@@ -1,6 +1,7 @@
 # Olá, eu sou o Igor (Cafeteira) 👋
 
-### 🎓 Cientista de Dados em Formação | 🕹️ Game Developer (GML)
+### 🎓 Cientista de Dados em Formação
+🕹️ Game Developer (GML)
 
 Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Minha jornada envolve transformar problemas complexos em soluções lógicas, seja através de modelos estatísticos ou mecânicas de jogos.
 
@@ -35,13 +36,15 @@ Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Mi
 
 <p align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafeteira-ISM&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafeteira-ISM&layout=compact&langs_count=7&theme=tokyonight&hide=php,c++,lua,twig,css,javascript,cmake" />
 </p>
+
 
 ---
 
 ### 📫 Contato:
 - 📧 **E-mail**: igormalaca.im@gmail.com
+
 - 👾 **Discord**: Cafeteira
 
 ---
