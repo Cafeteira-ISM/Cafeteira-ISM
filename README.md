@@ -1,4 +1,4 @@
-# Olá, eu sou o Igor (Cafeteira) 👋
+# Olá, eu sou o Igor Macedo (Cafeteira) 👋
 
 ### 🎓 Cientista de Dados em Formação
 🕹️ Game Developer (GML)
@@ -23,13 +23,12 @@ Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Mi
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### 📊 Estatísticas de Desenvolvedor:
-
+**Game Development & Design:**
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafeteira-ISM&layout=compact&langs_count=7&theme=tokyonight&hide=php,c++,lua,twig,css,javascript,cmake,html,shell,glsl,kotlin,hack" />
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GML-Language-008b45?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 </p>
-
 
 ---
 
@@ -37,16 +36,14 @@ Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Mi
 
 <p align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafeteira-ISM&layout=compact&langs_count=7&theme=tokyonight&hide=php,c++,lua,twig,css,javascript,cmake" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafeteira-ISM&layout=compact&langs_count=7&theme=tokyonight&hide=php,c++,lua,twig,css,javascript,cmake,html,shell,glsl,kotlin,hack,c" />
 </p>
-
 
 ---
 
 ### 📫 Contato:
 - 📧 **E-mail**: igormalaca.im@gmail.com
-
 - 👾 **Discord**: Cafeteira
 
 ---
-☕
+*Este perfil é movido a café e GML.* ☕
