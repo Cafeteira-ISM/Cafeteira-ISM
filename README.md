@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá, eu sou o Igor (Cafeteira) 👋
 
-<!--
-**Cafeteira-ISM/Cafeteira-ISM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Cientista de Dados em Formação | 🕹️ Game Developer (GML)
 
-Here are some ideas to get you started:
+Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Minha jornada envolve transformar problemas complexos em soluções lógicas, seja através de modelos estatísticos ou mecânicas de jogos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ No que estou trabalhando:
+- 🏰 **Siege of the Runes**: RPG de estratégia desenvolvido no GameMaker.
+- 🧪 **Project Infinite Extraction**: Protótipo de RPG Auto-Battler com mecânicas de extração e risco.
+- 📊 **Data Projects**: Análises exploratórias e automação utilizando Python e bibliotecas de Data Science.
+
+---
+
+### 🚀 Tecnologias e Ferramentas:
+
+**Data Science & Scripting:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+**Game Development & Design:**
+<p align="left">
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GML-Language-008b45?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estatísticas de Desenvolvedor:
+
+<p align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafeteira-ISM&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contato:
+- 📧 **E-mail**: igormalaca.im@gmail.com
+- 👾 **Discord**: Cafeteira
+
+---
+☕
