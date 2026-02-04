@@ -32,12 +32,11 @@ Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Mi
 
 ---
 
-### 📊 Estatísticas de Desenvolvedor:
+### 📊 Estatísticas de Desenvolvedor
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cafeteira-ISM&layout=compact&langs_count=7&theme=tokyonight&hide=php,c%2B%2B,lua,twig,css,javascript,cmake,html,shell,glsl,kotlin,hack,c" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cafeteira-ISM&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&hide=php,c++,lua,twig,css,javascript,cmake,html,shell,glsl,kotlin,hack,c)
 
 ---
 
