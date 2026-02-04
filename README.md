@@ -36,7 +36,9 @@ Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Mi
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cafeteira-ISM&theme=tokyonight)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cafeteira-ISM&theme=tokyonight)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cafeteira-ISM&theme=tokyonight)
+
+🛠️ *Grande parte da minha atividade ocorre em projetos privados, incluindo protótipos, estudos e desenvolvimento contínuo.*
 
 ---
 
