@@ -1,44 +1,53 @@
 # Olá, eu sou o Igor Macedo (Cafeteira) 👋
 
+### 🕹️ Game Developer (GML Specialist | C# & Unity Focused)
 ### 🎓 Cientista de Dados em Formação
-🕹️ Game Developer (GML)
 
-Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Minha jornada envolve transformar problemas complexos em soluções lógicas, seja através de modelos estatísticos ou mecânicas de jogos.
-
----
-
-### 🛠️ No que estou trabalhando:
-- 🏰 **Siege of the Runes**: RPG de estratégia desenvolvido no GameMaker.
-- 🧪 **Project Infinite Extraction**: Protótipo de RPG Auto-Battler com mecânicas de extração e risco.
-- 📊 **Data Projects**: Análises exploratórias e automação utilizando Python e bibliotecas de Data Science.
+Sou um desenvolvedor apaixonado por lógica e sistemas. Atualmente, meu foco principal é a transição para o ecossistema **C# & Unity**, aproveitando minha sólida base em **GML** para criar experiências de jogo mais complexas e escaláveis.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas:
+### 🚀 Foco Atual & Especialidade
+- 🎯 **C# & Unity**: Atualmente em estudo intensivo, aplicando C# tanto no contexto da Unity quanto em lógica de programação pura.
+- 🏰 **Siege of the Runes (GML Expert)**: Meu projeto principal. Um RPG de estratégia desenvolvido inteiramente em **GML**, onde aplico todo meu conhecimento em GameMaker.
+---
 
-**Data Science & Scripting:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+### 📚 Portfólio de Estudo e Evolução:
 
-**Game Development & Design:**
+#### 🕹️ Game Dev (Multi-engine)
+- **Unity**: Desenvolvimento focado em C#, explorando arquitetura de código e componentes da engine.
+- **Infraestrutura**: Manutenção e scripting para servidores (CafezOT) utilizando **Lua** e **C++**.
+
+#### 📊 Ciência de Dados & Software
+- **Sintese-Dados**: Sistema de gerenciamento em **Python** focado em organização lógica de dados.
+- **Data Analytics**: Scripts para análise exploratória e automação de tarefas.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas:
+
+**Stacks Principais (Especialista & Foco Atual):**
 <p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
   <img src="https://img.shields.io/badge/GML-Language-008b45?style=for-the-badge" />
+</p>
+
+**Ferramentas Complementares & Estudo:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Estatísticas de Desenvolvedor
+### 📊 Estatísticas
+*Contribuições constantes em projetos privados de infraestrutura, Game Dev e Ciência de Dados.*
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cafeteira-ISM&theme=tokyonight)
-
-![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cafeteira-ISM&theme=tokyonight)
-
-🛠️ *Grande parte da minha atividade ocorre em projetos privados, incluindo protótipos, estudos e desenvolvimento contínuo.*
 
 ---
 
@@ -47,4 +56,4 @@ Sou estudante de **Ciência de Dados** e desenvolvedor independente de jogos. Mi
 - 👾 **Discord**: Cafeteira
 
 ---
-*Este perfil é movido a café e GML.* ☕
+*Este perfil é movido a café e compilado em C#.* ☕
