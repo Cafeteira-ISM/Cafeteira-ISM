@@ -1,17 +1,18 @@
 <table>
   <tr>
-    <td width="65%" valign="center">
-      <h2>Hi 👋! My name is Igor Macedo and I'm a Data Science student & Game Developer, from Brazil</h2>
+    <td valign="middle">
+      <h1>Hi 👋! My name is Igor Macedo</h1>
+      <p>I'm a Data Science student & Game Developer, from Brazil 🇧🇷</p>
     </td>
-    <td width="35%" align="right" valign="center">
-      <img src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="150" />
+    <td align="right" valign="middle">
+      <img src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="140" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=dracula" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cafeteira-ISM&layout=compact&theme=dracula" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=dracula" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cafeteira-ISM&layout=compact&theme=dracula" height="140" />
 </div>
 
 <br>
@@ -22,13 +23,13 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="10"/>
   <img src="https://img.shields.io/badge/GameMaker-GML-black?style=flat&logo=gamemaker&logoColor=white" height="40"/>
 </div>
 
@@ -46,4 +47,3 @@
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
----
