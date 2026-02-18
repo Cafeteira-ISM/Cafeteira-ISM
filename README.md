@@ -1,16 +1,12 @@
 ### 🎓 Cientista de Dados em Formação
 
-Sou um desenvolvedor apaixonado por lógica e sistemas. Atualmente, meu foco principal é a transição para o ecossistema **C# & Unity**, aproveitando minha sólida base em **GML** para criar experiências de jogo mais complexas e escaláveis.
-
----
-
-- **C# & Unity**: Atualmente em estudo intensivo, aplicando C# tanto no contexto da Unity quanto em lógica de programação pura.
+Sou apaixonado por lógica e sistemas. Atualmente, meu foco principal é a transição para o ecossistema **C# & Unity**, aproveitando minha sólida base em **GML** para criar experiências de jogo mais complexas e escaláveis.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-**Stacks Principais (Especialista & Foco Atual):**
+**Stacks Principais:**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
