@@ -1,26 +1,10 @@
-# Olá, eu sou o Igor Macedo (Cafeteira) 👋
-
-### 🕹️ Game Developer (GML Specialist | C# & Unity Focused)
 ### 🎓 Cientista de Dados em Formação
 
 Sou um desenvolvedor apaixonado por lógica e sistemas. Atualmente, meu foco principal é a transição para o ecossistema **C# & Unity**, aproveitando minha sólida base em **GML** para criar experiências de jogo mais complexas e escaláveis.
 
 ---
 
-### 🚀 Foco Atual & Especialidade
-- 🎯 **C# & Unity**: Atualmente em estudo intensivo, aplicando C# tanto no contexto da Unity quanto em lógica de programação pura.
-- 🏰 **Siege of the Runes (GML Expert)**: Meu projeto principal. Um RPG de estratégia desenvolvido inteiramente em **GML**, onde aplico todo meu conhecimento em GameMaker.
----
-
-### 📚 Portfólio de Estudo e Evolução:
-
-#### 🕹️ Game Dev (Multi-engine)
-- **Unity**: Desenvolvimento focado em C#, explorando arquitetura de código e componentes da engine.
-- **Infraestrutura**: Manutenção e scripting para servidores (CafezOT) utilizando **Lua** e **C++**.
-
-#### 📊 Ciência de Dados & Software
-- **Sintese-Dados**: Sistema de gerenciamento em **Python** focado em organização lógica de dados.
-- **Data Analytics**: Scripts para análise exploratória e automação de tarefas.
+- **C# & Unity**: Atualmente em estudo intensivo, aplicando C# tanto no contexto da Unity quanto em lógica de programação pura.
 
 ---
 
@@ -44,9 +28,6 @@ Sou um desenvolvedor apaixonado por lógica e sistemas. Atualmente, meu foco pri
 
 ---
 
-### 📊 Estatísticas
-*Contribuições constantes em projetos privados de infraestrutura, Game Dev e Ciência de Dados.*
-
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cafeteira-ISM&theme=tokyonight)
 
 ---
@@ -56,4 +37,5 @@ Sou um desenvolvedor apaixonado por lógica e sistemas. Atualmente, meu foco pri
 - 👾 **Discord**: Cafeteira
 
 ---
+
 *Este perfil é movido a café e compilado em C#.* ☕
