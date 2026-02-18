@@ -1,10 +1,11 @@
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="middle">
-      <b>Hi 👋! My name is Igor Macedo</b><br>
+    <td width="60%" valign="middle" style="border: none;">
+      <b style="font-size: 24px;">Hi 👋! My name is Igor Macedo</b>
+      <br><br>
       I'm a Data Science student & Game Developer, from Brazil 🇧🇷
     </td>
-    <td width="40%" align="right" valign="middle">
+    <td width="40%" align="right" valign="middle" style="border: none;">
       <img src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="130" />
     </td>
   </tr>
@@ -19,7 +20,9 @@
 
 ---
 
-## 🛠️ Technologies
+<br>
+<b style="font-size: 20px;">🛠️ Technologies</b>
+<br><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
@@ -35,7 +38,9 @@
 
 ---
 
-## 📫 Contact
+<br>
+<b style="font-size: 20px;">📫 Contact</b>
+<br><br>
 
 <a href="mailto:igormacedo11@hotmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
