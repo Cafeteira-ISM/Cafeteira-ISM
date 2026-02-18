@@ -5,7 +5,7 @@ Hi 👋! My name is Igor Macedo and I'm a Data Science student & Game Developer,
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=dracula&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cafeteira-ISM&layout=compact&theme=dracula" height="150"/>
 </div>
 
