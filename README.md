@@ -2,7 +2,9 @@
 
 <b style="font-size: 24px;">Hi 👋! My name is Igor Macedo</b>
 <br><br>
-I'm a Data Science student & Game Developer, from Brazil 🇧🇷
+I'm a Data Science student & Game Developer,
+<br>
+from Brazil 🇧🇷
 <br><br>
 
 <div align="center">
