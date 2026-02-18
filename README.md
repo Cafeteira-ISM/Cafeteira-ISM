@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cafeteira-ISM&layout=compact&theme=dracula" height="150"/>
 </div>---
 
-<img align="right" height="150" src="[https://tenor.com/XIuV.gif]"/>---
+<img align="right" height="150" src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif"/>---
 
 🛠️ Technologies
 
