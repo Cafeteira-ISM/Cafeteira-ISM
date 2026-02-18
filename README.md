@@ -1,15 +1,9 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="middle" style="border: none;">
-      <b style="font-size: 24px;">Hi 👋! My name is Igor Macedo</b>
-      <br><br>
-      I'm a Data Science student & Game Developer, from Brazil 🇧🇷
-    </td>
-    <td width="40%" align="right" valign="middle" style="border: none;">
-      <img src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="130" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="140" />
+
+<b style="font-size: 24px;">Hi 👋! My name is Igor Macedo</b>
+<br><br>
+I'm a Data Science student & Game Developer, from Brazil 🇧🇷
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=dracula" height="140" />
