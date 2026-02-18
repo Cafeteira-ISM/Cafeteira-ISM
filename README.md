@@ -24,9 +24,6 @@ Sou apaixonado por lógica e sistemas. Atualmente, meu foco principal é a trans
 
 ---
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cafeteira-ISM&theme=tokyonight)
-
----
 
 ### 📫 Contato:
 - 📧 **E-mail**: igormalaca.im@gmail.com
