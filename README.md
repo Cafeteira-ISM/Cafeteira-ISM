@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td valign="middle">
-      <h1>Hi 👋! My name is Igor Macedo</h1>
-      <p>I'm a Data Science student & Game Developer, from Brazil 🇧🇷</p>
+    <td width="60%" valign="middle">
+      <b>Hi 👋! My name is Igor Macedo</b><br>
+      I'm a Data Science student & Game Developer, from Brazil 🇧🇷
     </td>
-    <td align="right" valign="middle">
-      <img src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="140" />
+    <td width="40%" align="right" valign="middle">
+      <img src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="130" />
     </td>
   </tr>
 </table>
