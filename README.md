@@ -1,18 +1,20 @@
-<div align="right">
-  <img height="150" src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif"/>
-</div>
+<table>
+  <tr>
+    <td width="65%" valign="center">
+      <h2>Hi 👋! My name is Igor Macedo and I'm a Data Science student & Game Developer, from Brazil</h2>
+    </td>
+    <td width="35%" align="right" valign="center">
+      <img src="https://media1.tenor.com/m/rYXWf348EcEAAAAC/lisa-simpson-coffee.gif" height="150" />
+    </td>
+  </tr>
+</table>
 
-<h2 align="left">
-  Hi 👋! My name is Igor Macedo and I'm a Data Science student & Game Developer, from Brazil
-</h2>
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=dracula" height="130"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cafeteira-ISM&layout=compact&theme=dracula" height="130"/>
 </div>
 
-<br clear="all">
+<br>
 
 ---
 
@@ -45,4 +47,3 @@
 </a>
 
 ---
-
