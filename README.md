@@ -7,11 +7,6 @@ I'm a Data Science student & Game Developer,
 from Brazil 🇧🇷
 <br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cafeteira-ISM&show_icons=true&theme=dracula" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cafeteira-ISM&layout=compact&theme=dracula" height="140" />
-</div>
-
 <br>
 
 ---
@@ -41,7 +36,7 @@ from Brazil 🇧🇷
 <a href="mailto:igormacedo11@hotmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://discord.gg/ZPNxUVmMkS">
   <img src="https://img.shields.io/badge/Discord-Cafeteira-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/igormacedo0">
